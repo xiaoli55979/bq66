@@ -3,7 +3,7 @@
   "com.MoodTracker.in": {
       "show_ad": true,
       "web_url": "http://bq66.vip",
-      "show_toolbar": false,
+      "show_toolbar": true,
       "min_version": "1.0.0",
       "description": "欢迎使用D直播"
   },
