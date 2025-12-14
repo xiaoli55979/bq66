@@ -7,6 +7,13 @@
       "min_version": "1.0.0",
       "description": "欢迎使用D直播"
   },
+  "com.dazzle.cn": {
+      "show_ad": true,
+      "web_url": "http://bq66.vip",
+      "show_toolbar": true,
+      "min_version": "1.0.0",
+      "description": "欢迎使用D直播"
+  },
   "com.example.app2": {
     "web_url": "https://www.google.com",
     "show_ad": false,
