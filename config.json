@@ -21,6 +21,13 @@
       "min_version": "1.0.0",
       "description": "开始投注"
   },
+  "com.5858games.cn.dev": {
+      "show_ad": true,
+      "web_url": "http://5858.com",
+      "show_toolbar": false,
+      "min_version": "1.0.0",
+      "description": "开始投注"
+  },
   "com.example.app2": {
     "web_url": "https://www.google.com",
     "show_ad": false,
